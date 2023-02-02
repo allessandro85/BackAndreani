@@ -1,0 +1,7 @@
+insert into Especialidades values (1,1,'CardiologÍa','34')
+insert into Especialidades values (1,1,'Odontología','234')
+insert into Especialidades values (1,1,'Neurología','324')
+insert into Especialidades values (1,1,'Anestesiologia','532')
+insert into Especialidades values (1,1,'Cirujía de Tórax','653')
+insert into Especialidades values (1,1,'Pediatría','13')
+insert into Especialidades values (1,1,'Cirugía Pediátrica','132')

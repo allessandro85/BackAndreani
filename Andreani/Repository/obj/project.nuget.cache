@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjPaX9DPETWGo39/T5o5GXPFxc++fvWnHYLhNFWegpR2zJ+7nsWmyjdnJNdfgcU+qIPyBfym5NBI61ACUG7oyA==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\BackAndreani\\Andreani\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ross\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

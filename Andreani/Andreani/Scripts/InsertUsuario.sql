@@ -1,0 +1,2 @@
+insert into Usuarios values (1,'allessandro85','alejandro','pinero',31999779,'ale@gmail.com',1134814854)
+insert into Usuarios values (2,'ramon1234','ramon','baldez',28376443,'ramon@gmail.com',1172637485)
